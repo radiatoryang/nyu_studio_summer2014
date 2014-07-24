@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\CharacterControl.cs" />
      <Compile Include="Assets\scripts\Fire.cs" />
+     <Compile Include="Assets\scripts\GateExample.cs" />
      <Compile Include="Assets\scripts\KardashCoinClick.cs" />
      <Compile Include="Assets\scripts\RaycastDemo.cs" />
      <Compile Include="Assets\scripts\RigidbodyController.cs" />

@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\RigidbodyControllerBlank.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Fire.cs">
     <Files>
       <File FileName="Assets\scripts\TransformController.cs" Line="23" Column="3" />
       <File FileName="Assets\scripts\CharacterControl.cs" Line="1" Column="1" />
@@ -8,6 +8,7 @@
       <File FileName="Assets\scripts\RigidbodyControllerBlank.cs" Line="9" Column="25" />
       <File FileName="Assets\scripts\RaycastDemo.cs" Line="19" Column="8" />
       <File FileName="Assets\scripts\KardashCoinClick.cs" Line="13" Column="1" />
+      <File FileName="Assets\scripts\Fire.cs" Line="9" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
