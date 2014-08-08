@@ -37,8 +37,8 @@ public class ProcGenBasic : MonoBehaviour {
 			Instantiate ( 	prefabToSpawn, 
 					 	  	new Vector3( 
 					 	  			Random.Range (-spawnRadius, spawnRadius), 
-					 	  			0f, 
-					 	  			Random.Range(-spawnRadius, spawnRadius) 
+			            			Random.Range (-spawnRadius, spawnRadius), 
+					 	  			Random.Range (-spawnRadius, spawnRadius) 
 					 	  	),
 					  	  	Quaternion.identity 
 						);
